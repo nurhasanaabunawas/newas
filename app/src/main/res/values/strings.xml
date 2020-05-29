@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes to-do</string>
+    <string name="please_add_todo_list">Silahkan tambahkan kegiatanmu</string>
+    <string name="label_todo_list">Daftar Kegiatan</string>
+
+    <string name="todo_icon" translatable="false">task_icon</string>
+
+    <string name="delete_todo_button" >delete_todo_button</string>
+</resources>
